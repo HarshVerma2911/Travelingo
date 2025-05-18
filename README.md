@@ -11,9 +11,6 @@
 ## 📸 Features
 
 - Beautiful landing page with header and hero section
-- Destinations section featuring:
-  - Deganwy, UK
-  - Desert, Egypt
 - Highlighted features like Adventure, Budget-Friendly, and Experience
 - Responsive layout (basic responsiveness)
 - Simple and elegant navigation bar
@@ -22,18 +19,6 @@
 ## 🧪 Purpose
 
 This project was created solely for practice and learning front-end development. It is a static site and does not include JavaScript or backend functionality.
-
-## 📁 Project Structure
-
-├── index.html
-├── about.html
-├── contact.html
-├── CSS/
-│ └── styles.css
-└── img/
-├── deganwy-castle1.jpg
-└── showcase-photo2.jpg
-
 
 ## 🚀 How to View
 
